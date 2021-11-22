@@ -8,7 +8,7 @@
 ----------------------------------------------------
 ### these algorithms are seperated in three parts :
 - algorithms on graphs (A1-A4)
-- algorithms on graphs (A5-A7)
+- algorithms on strings (A5-A7)
 - advanced algorithms (A8 - A11)
 
 >  based on three courses with this name in coursera 
